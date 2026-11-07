@@ -1,0 +1,6 @@
+{
+  "name": "Sellzone Floor Planner Pro",
+  "description": "Професионален конфигуратор за гаражни подови настилки с реални продукти и актуални цени от Sellzone.bg",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
